@@ -19,5 +19,5 @@ testing_data_scaled = ss.transform(testing_data)
 
 Prediction_Scores = mm.predict(testing_data_scaled)
 
-To acquire the data with 174947 features, you should use our mask (http://gonglab.bnu.edu.cn/wp-content/resource/S500_All_DARTEL_Template_GMMask.rar) to extract the brain GMV voxels
+To acquire the data with 174947 features, you should use our mask (http://gonglab.bnu.edu.cn/wp-content/resource/S500_All_DARTEL_Template_GMMask.rar) to extract the brain GMV voxels.
 
