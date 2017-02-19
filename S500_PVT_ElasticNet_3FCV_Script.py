@@ -51,7 +51,7 @@ Testing_Score_Fold1 = Testing_Score_Fold1[0]
 CZ_ElasticNet_Revise.ElasticNet_3Fold(Training_Data_Fold12, Training_Score_Fold12, Testing_Data_Fold3, Testing_Score_Fold3, \
     Training_Data_Fold13, Training_Score_Fold13, Testing_Data_Fold2, Testing_Score_Fold2, \
     Training_Data_Fold23, Training_Score_Fold23, Testing_Data_Fold1, Testing_Score_Fold1, \
-    np.exp(np.linspace(-6,5,20)), np.linspace(0.2, 1, 10), ParentFolder+'/xy', 60, 0)       
+    np.exp(np.linspace(-6,5,20)), np.linspace(0.2, 1, 10), ParentFolder, 60, 0)       
         
             
         
