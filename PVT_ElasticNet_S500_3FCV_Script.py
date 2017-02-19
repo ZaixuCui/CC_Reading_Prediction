@@ -35,7 +35,7 @@ Testing_Score_Fold3 = Testing_Score_Fold3[0]
 
 GMV_Fold13_training_All_PicVocab_mat = sio.loadmat(ParentFolder + '/GMV_Fold13_training_All_PicVocab.mat')
 Training_Data_Fold13 = GMV_Fold13_training_All_PicVocab_mat['GMV_Fold13_training_All_PicVocab']
-Training_Score_Fold13 = Behavioral_Data['Fold13_PicVocab_AgeAdj']
+Training_Score_Fold13 = Behavioral_Data['Fold13_PicVocab_AgeAdj'] 
 Training_Score_Fold13 = np.transpose(Training_Score_Fold13)
 Training_Score_Fold13 = Training_Score_Fold13[0]
 GMV_Fold13_training_Fold2_testing_All_PicVocab_mat = sio.loadmat(ParentFolder + '/GMV_Fold13_training_Fold2_testing_All_PicVocab.mat')
