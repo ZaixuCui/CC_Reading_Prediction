@@ -21,3 +21,7 @@ Prediction_Scores = mm.predict(testing_data_scaled)
 
 To acquire the data with 174947 features, you should use our template for registration and our mask to extract the brain GMV voxels (http://gonglab.bnu.edu.cn/wp-content/resource/S500_All_DARTEL_Template_GMMask.rar).
 
+## Note (important)
+
+Alpha variable in the code is the lamda in the second fomula of the paper.
+L1_ratio variable in the code is the alpha in the second fomula of the paper.
