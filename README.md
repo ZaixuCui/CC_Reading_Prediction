@@ -23,5 +23,5 @@ To acquire the data with 174947 features, you should use our template for regist
 
 ## Note (important)
 
-Alpha variable in the code is the lamda in the second fomula of the paper.
-L1_ratio variable in the code is the alpha in the second fomula of the paper.
+'Alpha' variable in the code is the 'lamda' in the second fomula of the paper.
+'L1_ratio' variable in the code is the 'alpha' in the second fomula of the paper.
