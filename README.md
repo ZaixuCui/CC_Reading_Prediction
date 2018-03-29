@@ -1,6 +1,6 @@
 # CC_Reading_Prediction
 
-Functions and scripts for our CC paper (link will be added soon). The functions contain elastic-net prediction (both 3F-CV and A-Predict-B) with inner 3F-CVs for parameter selection.
+Functions and scripts for our CC paper (https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhx061/3064958?searchresult=1). The functions contain elastic-net prediction (both 3F-CV and A-Predict-B) with inner 3F-CVs for parameter selection.
 
 In this paper, scikit-learn (http://scikit-learn.org/stable/) 0.16.1 and python 3.4.3 were used to implement the elastic-net algorithm.
 
