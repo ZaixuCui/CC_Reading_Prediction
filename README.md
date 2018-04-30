@@ -27,4 +27,4 @@ To acquire the data with 174947 features, you should use our template for regist
 'Alpha' variable in the code is the 'lamda' in the second fomula of the paper.
 'L1_ratio' variable in the code is the 'alpha' in the second fomula of the paper.
 
-The resolution of GM mask and GMV were 2*2*2 in this study!
+The resolution of GM mask and GMV were both 2×2×2 in this study!
