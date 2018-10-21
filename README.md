@@ -4,7 +4,7 @@ Functions and scripts for our CC paper. The functions contain elastic-net predic
 <br>&emsp; ```Zaixu Cui, Mengmeng Su, Liangjie Li, Hua Shu, Gaolang Gong; Individualized Prediction of Reading Comprehension Ability Using Gray Matter Volume, Cerebral Cortex, Volume 28, Issue 5, 1 May 2018, Pages 1656–1672, https://doi.org/10.1093/cercor/bhx061```
 <br>&emsp; ```Zaixu Cui, Gaolang Gong; The effect of machine learning regression algorithms and sample size on individualized behavioral prediction with functional connectivity features, NeuroImage, Volume 178, Pages 622-637```
 
-If you would like to try these codes in your work. It's better to try codes in https://github.com/ZaixuCui/Pattern_Regression_Clean. The codes here are more specific to this study. 
+If you would like to do individualized behavior prediction in your work. It's better to try codes in https://github.com/ZaixuCui/Pattern_Regression_Clean. The codes here are more specific to this study. 
 
 In this paper, scikit-learn (http://scikit-learn.org/stable/) 0.16.1 and python 3.4.3 were used to implement the elastic-net algorithm.
 
